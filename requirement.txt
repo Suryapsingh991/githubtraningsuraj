@@ -3,3 +3,5 @@ Emoji
 Type opption
 colours
 vibreant
+Dark Mode
+video calls
