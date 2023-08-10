@@ -5,3 +5,7 @@ colours
 vibreant
 Dark Mode
 video calls
+
+Payment Add
+Payment Send
+Payment Receive
